@@ -28,10 +28,10 @@ If you are looking for **software engineering projects**:
 - [Minishell](https://github.com/NorikaNarimatsu/minishell), [Philosopher](https://github.com/NorikaNarimatsu/philosophers),  [Libft](https://github.com/NorikaNarimatsu/libft)
 
 If you are looking for **science communication products**:
-- [Voicevista](https://github.com/NorikaNarimatsu/VOICEVISTA), [Quizality](https://github.com/NorikaNarimatsu/Global-Inequality-test), [The Sky]([https://github.com/your-sky-repo](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4)
+- [Voicevista](https://github.com/NorikaNarimatsu/VOICEVISTA), [Quizality](https://github.com/NorikaNarimatsu/Global-Inequality-test), [The Sky](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4)
 
 If you are looking for **creative projects**:
-- [Poem Generator](https://github.com/NorikaNarimatsu/Bad-Poets-Society), [Recipe Generator](https://github.com/NorikaNarimatsu/Recipe-Generator), [Sentiment Music Generator](https://github.com/NorikaNarimatsu/Sentiment-Driven-Music-Generator), [The Sky]([https://github.com/your-sky-repo](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4)
+- [Poem Generator](https://github.com/NorikaNarimatsu/Bad-Poets-Society), [Recipe Generator](https://github.com/NorikaNarimatsu/Recipe-Generator), [Sentiment Music Generator](https://github.com/NorikaNarimatsu/Sentiment-Driven-Music-Generator), [The Sky](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4)
 
 ---
 ## 🚀 My Favorite Projects
