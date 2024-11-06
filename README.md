@@ -9,7 +9,6 @@ My ultimate goal is to foster a society that values basic research, empowering s
 - **Location**: Leiden, Netherlands
 - **Contact**: [n.narimatsu@umail.leidenuniv.nl](mailto:n.narimatsu@umail.leidenuniv.nl)
 - **LinkedIn**: [linkedin.com/in/norika-narimatsu](https://www.linkedin.com/in/norika-narimatsu-7b5319295/)
-- **GitHub**: [github.com/NorikaNarimatsu](https://github.com/NorikaNarimatsu)
 
 ---
 
@@ -37,30 +36,25 @@ If you are looking for **creative projects**:
 ---
 ## 🚀 My Favorite Projects
 
-### 1. STS Forum
-   - **Description**: Analyzed 20 years of archival data from the STS Forum to uncover trends in science and technology discussions.
-   - **Technologies**: Python, NLP, Topic Modeling
-   - **Impact**: Provided insights into evolving science and technology priorities across global stakeholders.
+### 1. [Retrospective Analysis of the Science and Technology in Society Forum Discussions](https://github.com/NorikaNarimatsu/NLP-for-the-Science-and-Technology-in-Society-Forum)
+   - **Description**: Analyzed 20 years of archival data from the STS Forum to uncover trends in the biggest science and technology conference where global leaders in academia, industry and government gather.
+   - **Skills**: Python, NLP, Computational Network Analysis
 
 ### 2. [Quizality – Interactive Quiz Game on Global Inequality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
    - **Description**: Collaborated on an interactive quiz game that illustrates global inequality with data visualizations and summary statistics.
-   - **Technologies**: Python, PyWebIO, World Bank datasets
-   - **Impact**: Enhanced public understanding of inequality using an engaging and interactive format.
+   - **Skills**: Python, PyWebIO, Data Visualization, World Bank Datasets
 
-### 3. Minishell
+### 3. [Minishell - a custom shell that replicates some of the features of Bash](https://github.com/NorikaNarimatsu/minishell)
+   - **Description**: Develop a shell that executes commands from the system PATH and supports built-in commands, piping, redirections, environment variable expansion and signal handling.
+   - **Skills**: C, Bash
+
+### 4. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/NorikaNarimatsu/VOICEVISTA))
    - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
    - **Technologies**: Python, NLP, Data Visualization
-   - **Outcome**: Improved communication assessment in educational settings by visualizing speaking patterns and tracking contributions in real-time.
 
-### 4. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/your-voicevista-repo)
-   - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
-   - **Technologies**: Python, NLP, Data Visualization
-   - **Outcome**: Improved communication assessment in educational settings by visualizing speaking patterns and tracking contributions in real-time.
-
-### 5. Bachelor Thesis
-   - **Description**: Analyzed the impact of funding system flexibility in Japan’s KAKENHI program on scientific output.
+### 5. [Capstone Project: Impact of flexible funding system implementation in scientific grants on scientific outputs](https://github.com/NorikaNarimatsu/capstone_kakenhi)
+   - **Description**: Analyzed the impact of funding system flexibility in Japan’s scientific grants, KAKENHI program, on scientific output.
    - **Technologies**: Python, Causal Inference, Statistical Analysis
-   - **Impact**: Provided evidence-based insights to inform funding policy improvements.
 
 For more projects, check my [Portfolio](https://www.notion.so/Norika-Narimatsu-Data-Scientists-Science-Communicator-128c90a7a6af8081915ec1530f13fa91).
 
