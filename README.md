@@ -22,16 +22,16 @@ My ultimate goal is to foster a society that values basic research, empowering s
 
 ## 🚀 Portfolio of Projects
 If you are looking for **data analysis projects**:
-- [STS Forum](https://github.com/your-STS-forum-repo), [Capstone KAKENHI](https://github.com/NorikaNarimatsu/capstone_kakenhi), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
+- [STS Forum](https://github.com/NorikaNarimatsu/NLP-for-the-Science-and-Technology-in-Society-Forum), [Capstone Project](https://github.com/NorikaNarimatsu/capstone_kakenhi), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
 
 If you are looking for **software engineering projects**:
-- [Minishell](https://github.com/your-minishell-repo), [Philosopher](https://github.com/your-philosophers-repo), [Push-Swap](https://github.com/your-push-swap-repo), [Libft](https://github.com/your-libft-repo)
+- [Minishell](https://github.com/NorikaNarimatsu/minishell), [Philosopher](https://github.com/NorikaNarimatsu/philosophers),  [Libft](https://github.com/NorikaNarimatsu/libft)
 
 If you are looking for **science communication products**:
-- [Voicevista](https://github.com/your-voicevista-repo), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality), [Sky](https://github.com/your-sky-repo)
+- [Voicevista](https://github.com/NorikaNarimatsu/VOICEVISTA), [Quizality](https://github.com/NorikaNarimatsu/Global-Inequality-test), [The Sky]([https://github.com/your-sky-repo](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4))
 
 If you are looking for **creative projects**:
-- [Poem Generator](https://github.com/your-poem-generator-repo), [Recipe Generator](https://github.com/your-recipe-generator-repo), [Sentiment Music Generator](https://github.com/your-sentiment-music-repo), [Sky](https://github.com/your-sky-repo)
+- [Poem Generator](https://github.com/NorikaNarimatsu/Bad-Poets-Society), [Recipe Generator](https://github.com/NorikaNarimatsu/Recipe-Generator), [Sentiment Music Generator](https://github.com/NorikaNarimatsu/Sentiment-Driven-Music-Generator), [The Sky]([https://github.com/your-sky-repo](https://www.notion.so/The-Sky-A-Picture-Book-about-Overconsumption-and-Environmental-Degradation-128c90a7a6af8176960dee05c27ba0a4))
 
 ---
 ## 🚀 My Favorite Projects
@@ -40,7 +40,7 @@ If you are looking for **creative projects**:
    - **Description**: Analyzed 20 years of archival data from the STS Forum to uncover trends in the biggest science and technology conference where global leaders in academia, industry and government gather.
    - **Skills**: Python, NLP, Computational Network Analysis
 
-### 2. [Quizality – Interactive Quiz Game on Global Inequality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
+### 2. [Quizality – Interactive Quiz Game on Global Inequality](https://github.com/NorikaNarimatsu/Global-Inequality-test)
    - **Description**: Collaborated on an interactive quiz game that illustrates global inequality with data visualizations and summary statistics.
    - **Skills**: Python, PyWebIO, Data Visualization, World Bank Datasets
 
@@ -61,9 +61,9 @@ For more projects, check my [Portfolio](https://www.notion.so/Norika-Narimatsu-D
 ---
 
 ## 🎓 Education
-- **MSc in Computer Science and Science Communication**, Leiden University (2023 - Present)
-- **Software Engineering**, Codam Coding College, Amsterdam (2023 - Present)
-- **BSc in Computational Sciences and Social Sciences**, Minerva University (2019 - 2023)
+- **MSc in Computer Science and Science Communication**, [Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/computer-science-and-science-communication-and-society) (2023 - Present)
+- **Software Engineering**, [Codam Coding College](https://www.codam.nl/en/about-codam), Amsterdam (2023 - Present)
+- **BSc in Computational Sciences and Social Sciences**, [Minerva University](https://www.minerva.edu/) (2019 - 2023)
 
 ---
 
@@ -75,8 +75,7 @@ For more projects, check my [Portfolio](https://www.notion.so/Norika-Narimatsu-D
 ---
 
 ## 🌍 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/norika-narimatsu-7b5319295/) | [GitHub](https://github.com/NorikaNarimatsu) 
-
+[LinkedIn](https://www.linkedin.com/in/norika-narimatsu-7b5319295/)
 ---
 
 Thank you for visiting my profile! I'm currently looking for an internship in the intersection of data science and science communication. Feel free to explore my projects, and don’t hesitate to reach out!
