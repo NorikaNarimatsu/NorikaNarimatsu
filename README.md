@@ -14,32 +14,54 @@ My ultimate goal is to foster a society that values basic research, empowering s
 ---
 
 ## 🛠 Skills
-- **Programming Languages**: Python (4 years), R / Stata (2 years), C / C++ (1 year)
-- **Machine Learning**:
-- **Deep Learning**:
-- **Data Visualization**/**Data Storytelling**: 
-- **Statistical Analysis**: Causal Inference, Impact Evaluation
+- **Programming**: Python (4 yrs), R/Stata (2 yrs), C/C++ (1 yr)
+- **Data Science**: Machine Learning, Deep Learning, Data Visualization, Data Storytelling
+- **Data Processing**: Data Cleaning, Data Preparation
+- **Statistical Methods**: Causal Inference, Statistical Analysis, Econometrics
 
 ---
 
 ## 🚀 Projects
+If you are looking for data analysis projects:
+- [STS Forum](https://github.com/your-STS-forum-repo), [Capstone KAKENHI](https://github.com/NorikaNarimatsu/capstone_kakenhi), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
 
-### 1. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/your-voicevista-repo)
-   - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
-   - **Technologies**: Python, NLP, Data Visualization
-   - **Outcome**: Improved communication assessment in educational settings by visualizing speaking patterns and tracking contributions in real-time.
+If you are looking for software engineering projects:
+- [Minishell](https://github.com/your-minishell-repo), [Philosopher](https://github.com/your-philosophers-repo), [Push-Swap](https://github.com/your-push-swap-repo), [Libft](https://github.com/your-libft-repo)
+
+If you are looking for science communication products:
+- [Voicevista](https://github.com/your-voicevista-repo), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality), [Sky](https://github.com/your-sky-repo)
+
+If you are looking for creative projects:
+- [Poem Generator](https://github.com/your-poem-generator-repo), [Recipe Generator](https://github.com/your-recipe-generator-repo), [Sentiment Music Generator](https://github.com/your-sentiment-music-repo), [Sky](https://github.com/your-sky-repo)
+
+---
+
+### 1. STS Forum
+   - **Description**: Analyzed 20 years of archival data from the STS Forum to uncover trends in science and technology discussions.
+   - **Technologies**: Python, NLP, Topic Modeling
+   - **Impact**: Provided insights into evolving science and technology priorities across global stakeholders.
 
 ### 2. [Quizality – Interactive Quiz Game on Global Inequality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
    - **Description**: Collaborated on an interactive quiz game that illustrates global inequality with data visualizations and summary statistics.
    - **Technologies**: Python, PyWebIO, World Bank datasets
    - **Impact**: Enhanced public understanding of inequality using an engaging and interactive format.
 
-### 3. [Sky - Children's Picture Book on Overconsumption and Environmental Issues](https://link-to-your-sky-project)
-   - **Description**: Created a children's picture book with visual storytelling techniques to raise awareness about overconsumption and environmental impact.
-   - **Technologies**: Visual Design, Storytelling
-   - **Outcome**: Aimed at fostering environmental awareness among young readers through personification and engaging imagery.
+### 3. Minishell
+   - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
+   - **Technologies**: Python, NLP, Data Visualization
+   - **Outcome**: Improved communication assessment in educational settings by visualizing speaking patterns and tracking contributions in real-time.
 
-For more projects, check my [Portfolio](https://www.notion.so/Norika-Narimatsu-Data-Scientists-Science-Communicator-128c90a7a6af8081915ec1530f13fa91)
+### 4. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/your-voicevista-repo)
+   - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
+   - **Technologies**: Python, NLP, Data Visualization
+   - **Outcome**: Improved communication assessment in educational settings by visualizing speaking patterns and tracking contributions in real-time.
+
+### 5. Bachelor Thesis
+   - **Description**: Analyzed the impact of funding system flexibility in Japan’s KAKENHI program on scientific output.
+   - **Technologies**: Python, Causal Inference, Statistical Analysis
+   - **Impact**: Provided evidence-based insights to inform funding policy improvements.
+
+For more projects, check my [Portfolio](https://www.notion.so/Norika-Narimatsu-Data-Scientists-Science-Communicator-128c90a7a6af8081915ec1530f13fa91).
 
 ---
 
