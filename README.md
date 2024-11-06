@@ -48,7 +48,7 @@ If you are looking for **creative projects**:
    - **Description**: Develop a shell that executes commands from the system PATH and supports built-in commands, piping, redirections, environment variable expansion and signal handling.
    - **Skills**: C, Bash
 
-### 4. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/NorikaNarimatsu/VOICEVISTA))
+### 4. [Voicevista - Speech Recognition and Analysis for Group Discussions](https://github.com/NorikaNarimatsu/VOICEVISTA)
    - **Description**: Developed a multimedia system using speech recognition, speaker diarization, and data visualization to analyze group discussions.
    - **Technologies**: Python, NLP, Data Visualization
 
