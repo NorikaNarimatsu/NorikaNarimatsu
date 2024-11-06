@@ -21,20 +21,21 @@ My ultimate goal is to foster a society that values basic research, empowering s
 
 ---
 
-## 🚀 Projects
-If you are looking for data analysis projects:
+## 🚀 Portfolio of Projects
+If you are looking for **data analysis projects**:
 - [STS Forum](https://github.com/your-STS-forum-repo), [Capstone KAKENHI](https://github.com/NorikaNarimatsu/capstone_kakenhi), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality)
 
-If you are looking for software engineering projects:
+If you are looking for **software engineering projects**:
 - [Minishell](https://github.com/your-minishell-repo), [Philosopher](https://github.com/your-philosophers-repo), [Push-Swap](https://github.com/your-push-swap-repo), [Libft](https://github.com/your-libft-repo)
 
-If you are looking for science communication products:
+If you are looking for **science communication products**:
 - [Voicevista](https://github.com/your-voicevista-repo), [Quizality](https://github.com/berdikhanova/DS4SG-Global-Inequality), [Sky](https://github.com/your-sky-repo)
 
-If you are looking for creative projects:
+If you are looking for **creative projects**:
 - [Poem Generator](https://github.com/your-poem-generator-repo), [Recipe Generator](https://github.com/your-recipe-generator-repo), [Sentiment Music Generator](https://github.com/your-sentiment-music-repo), [Sky](https://github.com/your-sky-repo)
 
 ---
+## 🚀 My Favorite Projects
 
 ### 1. STS Forum
    - **Description**: Analyzed 20 years of archival data from the STS Forum to uncover trends in science and technology discussions.
