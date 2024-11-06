@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Norika
 
-I'm a **Data Scientist** and **Science Communicator** based in Leiden, Netherlands, with expertise in **causal inference**, **natural language processing (NLP)** and **science communication**. I'm pursuing a dual study: a Master’s in **Computer Science and Science Communication** at **Leiden University** and **Software Engineering** at **Codam Coding College**. My ultimate goal is to foster a society that values basic research, empowering scientists to pursue discoveries driven by intellectual curiosity. With a solid foundation in data science and science communication, I am ready to bridge the gap between scientists and society, ensuring essential research is recognized and supported."
+I'm a **Data Scientist** and **Science Communicator** based in Leiden, Netherlands, with expertise in **causal inference**, **natural language processing (NLP)** and **science communication**. I'm pursuing a dual study: a Master’s in **Computer Science and Science Communication** at **Leiden University** and **Software Engineering** at **Codam Coding College**. 
+
+My ultimate goal is to foster a society that values basic research, empowering scientists to pursue discoveries driven by intellectual curiosity. With a solid foundation in data science and science communication, I am ready to bridge the gap between scientists and society, ensuring essential research is recognized and supported."
 
 
 ## 🌟 About Me
